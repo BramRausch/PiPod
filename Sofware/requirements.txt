@@ -1,0 +1,8 @@
+Adafruit-ADS1x15==1.0.2
+Adafruit-GPIO==1.0.3
+pathlib==1.0.1
+pyalsaaudio==0.8.4
+pygame==1.9.3
+pytaglib==1.4.3
+python-vlc==3.0.102
+RPi.GPIO==0.6.3
